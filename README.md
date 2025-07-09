@@ -1,0 +1,1 @@
+This is an app we created during week 3 of the FNB app academy. It is a tour guide for anyone interested in visiting the fictional Pine City zoo. It has functionalities like checking the weather, viewing the map, and submitting feedback. These are purely front-end, so there are limitations: there is no connected backend. It was developed using HTML5 and CSS.
